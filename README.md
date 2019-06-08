@@ -1,7 +1,7 @@
 # Vehicle-Color-Identification
 
 ***		README	***
-***Vehicle Color Identification***
+
 Jaideep Whabi - A20403110 
 CS 595 - Deep Learning
 																				
